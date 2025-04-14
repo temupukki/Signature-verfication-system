@@ -1,7 +1,4 @@
 %Signature Verification System
-%Abraham Fikre------------- 01143/14           
-%Dagmawi Behailu----------- 02434/14
-%Temesgen Gashaw------------ 01833/14
 %TEST IMAGES FROM    https://cedar.buffalo.edu/NIJ/data/signatures.rar
 function SignatureVerificationSystem()
     % Create a UI figure
